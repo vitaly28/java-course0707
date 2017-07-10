@@ -1,4 +1,4 @@
-package com.company;
+package ru.job4j.max;
 
 public class Max {
   public static void main(String[] args) {

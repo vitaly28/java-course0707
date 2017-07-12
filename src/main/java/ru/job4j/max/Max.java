@@ -2,14 +2,14 @@ package ru.job4j.max;
 /**
 * Package for Max.
 *
-* @author Petr Arsentev (sm_plus82@mail.ru)
+* @author Vitaly Berstenev(sm_plus82@mail.ru)
 * @version $Id$
 * @since 0.1
 */
 public class Max {
 
 /**
-*Сравнение максимум
+*Сравнение максимум.
 *@param a первый аргумент
 *@param b второй аргумент
 *@return результат
@@ -20,7 +20,7 @@ public class Max {
   }
 
 /**
-*Сравнение  максимум
+*Сравнение  максимум.
 *@param a первый аргумент
 *@param b второй аргумент
 *@param c третий аргумент

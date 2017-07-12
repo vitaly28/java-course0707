@@ -11,9 +11,9 @@ public class Max {
 /**
 *Сравнение максимум.
 *
-*@param a первый аргумент
-*@param b второй аргумент
-*@return результат
+*@param a first argument
+*@param b second argument
+*@return result
 */  
   public int max(int a, int b){
     if (a > b){return a;}
@@ -21,12 +21,12 @@ public class Max {
   }
 
 /**
-*Сравнение  максимум.
+*Comparison maximum
 *
-*@param a первый аргумент
-*@param b второй аргумент
-*@param c третий аргумент
-*@return результат
+*@param a first arguments
+*@param b secont arguments
+*@param c tree arguments
+*@return result
 */
   public int max(int a, int b,int c){
 
